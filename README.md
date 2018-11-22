@@ -1,1 +1,1 @@
-# upload to github
+# Upload For heroku and Python anywhere
